@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/bar-chart/static/js/main.c0a8d96b.chunk.js",
+    "main.js.map": "/bar-chart/static/js/main.c0a8d96b.chunk.js.map",
+    "runtime-main.js": "/bar-chart/static/js/runtime-main.c5124a98.js",
+    "runtime-main.js.map": "/bar-chart/static/js/runtime-main.c5124a98.js.map",
+    "static/js/2.3d1ce79d.chunk.js": "/bar-chart/static/js/2.3d1ce79d.chunk.js",
+    "static/js/2.3d1ce79d.chunk.js.map": "/bar-chart/static/js/2.3d1ce79d.chunk.js.map",
+    "index.html": "/bar-chart/index.html",
+    "static/js/2.3d1ce79d.chunk.js.LICENSE.txt": "/bar-chart/static/js/2.3d1ce79d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5124a98.js",
+    "static/js/2.3d1ce79d.chunk.js",
+    "static/js/main.c0a8d96b.chunk.js"
+  ]
+}
